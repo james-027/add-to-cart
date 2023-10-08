@@ -46,7 +46,7 @@ onValue(shoppingListInDB,function(snapshot){
             let value= inputEL.value
 
             if (value === ""){
-                  alert("Nay, Maglist muna kayo")
+                  alert("Nay, Mag-type muna kayo sa Input Field")
                   
             }
             else{
